@@ -2,7 +2,7 @@
 
 Introduction: 
 
-Code in Place 2023, offered by Stanford University, is an online program that acts as a catalyst for individuals seeking to learn programming, irrespective of their domain. As a second-year B.Tech student pursuing a degree in computer science, I joined this transformative program with prior programming knowledge. However, Code in Place provided me with an unparalleled boost, expanding my coding skills and introducing me to a vibrant community of learners. In this blog, I am excited to share my personal journey through Code in Place and highlight the unique aspects that make it an invaluable resource for anyone interested in programming.
+Code in Place 2023, offered by Stanford University,is an online program that acts as a catalyst for individuals seeking to learn programming, irrespective of their domain. As a second-year B.Tech student pursuing a degree in computer science, I joined this transformative program with prior programming knowledge. However, Code in Place provided me with an unparalleled boost, expanding my coding skills and introducing me to a vibrant community of learners. In this blog, I am excited to share my personal journey through Code in Place and highlight the unique aspects that make it an invaluable resource for anyone interested in programming.
 
 Participation and Community: 
 
